@@ -1,0 +1,11 @@
+.obsidian/
+.venv/
+__pycache__/
+*.py[cod]
+.~lock.*#
+
+# Local virtual environments and IDE files
+.env
+.idea/
+.vscode/
+
